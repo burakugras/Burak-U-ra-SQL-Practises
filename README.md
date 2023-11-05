@@ -1,0 +1,2 @@
+# Burak-U-ra-SQL-Practises
+QUERY SOLUTIONS FOR 85 SCENARIO 
