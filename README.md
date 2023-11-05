@@ -1,2 +1,2 @@
-# Burak-U-ra-SQL-Practises
+# Burak-UGRAS-SQL-Practises
 QUERY SOLUTIONS FOR 85 SCENARIO 
